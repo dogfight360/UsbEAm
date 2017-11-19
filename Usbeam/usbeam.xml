@@ -1,10 +1,10 @@
 ﻿[usbeam]
-VERSION=3.4
+VERSION=3.41
 Group=SteamCN,|,Steam,Origin,Uplay,Microsoft Store,GOG,Battle.net,Epic Games,|,In Game,For Web,Reverse proxy
 
 [Announcement]
-SC=最新版本: V3.4\n\n\n更新日志:\n\n0.修正网络读取设置,部分参数调整\n\n1.增加反代加速菜单\n\n2.UI调整\n\n3.增加广告展示
-EN=The latest version: V3.4\n\n\nChangelog:\n\n0.Fixed network read setting, some parameter adjustments\n\n1.Added Reverse proxy Menu\n\n2.UI adjustments\n\n3.Increase ad impression
+SC=最新版本: V3.41\n\n\n更新日志:\n\n0.增加github备用源,解决部分奇葩网络运营商无法访问源站导致无法运行\n\n1.修复BUG
+EN=The latest version: V3.41\n\n\nChangelog:\n\n0.Added backup data source: github\n\n1.fix BUG
 
 [language]
 
