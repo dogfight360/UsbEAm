@@ -1,6 +1,6 @@
 ﻿[usbeam]
 VERSION=3.44
-Group=SteamCN,|,Steam,Origin,Uplay,Microsoft Store,GOG,Battle.net,Epic Games,|,In Game,For Web,Reverse proxy
+Group=SteamCN,|,Steam,Origin,Uplay,Microsoft Store,GOG,Battle.net,Epic Games,|,In Game,For Web,|,Reverse proxy
 
 [Announcement]
 SC=最新版本: V3.44\n\n\n更新日志:\n\n0.修复上一版本写入hosts时转义符处理不当的BUG\n
@@ -80,7 +80,7 @@ img=EC5F832D76CE1AF0A4E8BDC6CD86EAD63494D099AF51452D8578F1125BE7BB3A9C6268CA3300
 url_git=5806D85638DD685B0E33AE000171B625342F0344F8A81AE1
 img_git=20FE2CFCE45D7708197014C965DB8CE99FCA223057C831F02B15DD9A0C421098153FE280AD3E7CF3223709845D8F1FD1720B945341BC406CF4E10A065444905A9C6268CA33003C9D308BF559AB96E4DB
 size=46327
-show=null
+show=weekend
 
 [SteamCN]
 ZH=SteamCN - 蒸汽动力社区
