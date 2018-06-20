@@ -228,6 +228,6 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45017=Dirty Bomb API|脏弹登入与加载速度||api.fireteam.net|Dirty Bomb API|加快脏弹登入与加载速度|443
 45018=Steam Store and Community|Steam商店跨区(US)/社区(讨论区)||store.steampowered.com,steamcommunity.com|Steam Store and Community|Steam商店跨区(US)/解除社区讨论区访问|443
 45019=Fix Hitman connect|解决Hitman连接问题||config.hitman.io,auth.hitman.io,pc-service.hitman.io,metrics.hitman.io|Fix Hitman connect|解决Hitman连接问题|443
-45020=DEATHGARDEN|解决死亡花园连接问题||latest.live.tex.bhvronline.com,tex-dev-stashboard.appspot.com,ocsp.pki.goog|Fix connect faield (China Region)|解决国内连接服务器失败|80
+45020=DEATHGARDEN|解决死亡花园连接问题||latest.live.tex.bhvronline.com,tex-live-stashboard.appspot.com,tex-dev-stashboard.appspot.com,ocsp.pki.goog|Fix connect faield (China Region)|解决国内连接服务器失败|80
 45912=Reverse proxy server is sponsored by rfchost.com|反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|反代加速服务器由rfchost.com赞助 - 买VPS就上rfchost.com!|80
 #end_usbeam
