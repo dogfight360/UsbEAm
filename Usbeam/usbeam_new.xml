@@ -245,6 +245,6 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45021=For honor|解决荣耀战魂连接困难||public-ubiservices.ubi.com,public-ws-ubiservices.ubi.com,msr-public-ubiservices.ubi.com,items.forhonor.ubisoft.com,mgw-livepc-2.forhonor.ubisoft.com,playlists-2.forhonor.ubisoft.com,metagame.forhonor.ubisoft.com,s3.amazonaws.com|Fix connect|解决荣耀战魂连接困难|80
 45022=Steep|缓解极限巅峰卡加载||public-ubiservices.ubi.com,public-ws-ubiservices.ubi.com,msr-public-ubiservices.ubi.com,public-im-ubiservices.ubi.com,useast1-public-ubiservices.ubi.com,s3.amazonaws.com,|Fix Steep|缓解极限巅峰卡2/3加载|80
 45023=Battlefiel server list loading|加快战地1服务器列表加载||sparta-gw.battlelog.com|Battlefiel server list loading|加快战地1服务器列表加载|443
-45024=Forza Horizon 4|极限竞速地平线4||gameservices.fh4.forzamotorsport.net,sessiondirectory.xboxlive.com,v20.events.data.microsoft.com|Fix FH4 Load slow|解决无法加载拍卖/交易/设计|443
+45024=Forza Horizon 4|极限竞速地平线4||displaycatalog.mp.microsoft.com,collections.md.mp.microsoft.com,clubhub.xboxlive.com,titlestorage.xboxlive.com,presence-heartbeat.xboxlive.com,gameservices.fh4.forzamotorsport.net,sessiondirectory.xboxlive.com,v20.events.data.microsoft.com|Fix FH4 Load slow|解决无法登陆/加载拍卖/交易/设计|443
 45912=Reverse proxy server is sponsored by rfchost.com|反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|反代加速服务器由rfchost.com赞助 - 买VPS就上rfchost.com!|80
 #end_usbeam
