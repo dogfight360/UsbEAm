@@ -257,6 +257,6 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45025=LET IT DIE|缓解LET IT DIE游戏掉线||prds.lid.gungho.jp|Mitigating network disconnection|缓解掉线|443
 45026=Bypass MapleStory 2 limit|绕过冒险岛2登陆限制||api.nexon.io|Bypass MapleStory 2(Steam) login limit|绕过Steam版冒险岛2登陆限制|443
 45027=Euro Truck Simulator 2|缓解欧卡2登陆失败||api.truckersmp.com,update.ets2mp.com|fix Euro Truck Simulator 2 login|缓解欧卡2登陆失败|443
-45028=Epic游戏平台跨区|Epic games||www.epicgames.com,graphql.epicgames.com|Epic games|Epic games平台跨区/绕过入库限制|443
+45028=Epic games Region lock bypass|Epic游戏平台跨区||www.epicgames.com,graphql.epicgames.com|Epic games|Epic games平台跨区/绕过入库限制|443
 45912=Reverse proxy server is sponsored by rfchost.com|反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|反代加速服务器由rfchost.com赞助 - 买VPS就上rfchost.com!|80
 #end_usbeam
