@@ -79,7 +79,7 @@ url=92DF5C66C282882C3D6D6741BF11445C79668779635E90AB2A17D26369E6A0223E929AFA8533
 img=EC5F832D76CE1AF0A4E8BDC6CD86EAD63494D099AF51452D8578F1125BE7BB3A9C6268CA33003C9D308BF559AB96E4DB
 url_git=92DF5C66C282882C3D6D6741BF11445C79668779635E90AB2A17D26369E6A0223E929AFA85331EC4B1AFDCB30AA4241D0C683A405FD4DD238DD476CCE476713C58E292EEC6544565
 img_git=20FE2CFCE45D7708197014C965DB8CE99FCA223057C831F02B15DD9A0C421098153FE280AD3E7CF3223709845D8F1FD1720B945341BC406CF4E10A065444905A9C6268CA33003C9D308BF559AB96E4DB
-size=54379
+size=50434
 show=everyday
 
 [SteamCN]
@@ -282,7 +282,7 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45030=Anthem|加快圣歌登入/加载/过场速度||accounts.ea.com,use2-ant04-live01-auth-pub.biowareonline.net,use2-ant04-live01-bigs-gameconfig-pub.biowareonline.net,use2-ant04-live01-event-broadcast-pub.biowareonline.net,use2-ant04-live01-bigs-character-pub.biowareonline.net,use2-ant04-live01-bigs-loadout-pub.biowareonline.net,use2-ant04-live01-bigs-activity-pub.biowareonline.net,use2-ant04-live01-bigs-inventory-pub.biowareonline.net,use2-ant04-live01-bigs-expedition-pub.biowareonline.net,use2-ant04-live01-bigs-unlock-pub.biowareonline.net,use2-ant04-live01-bigs-mtx-pub.biowareonline.net,use2-ant04-live01-bigs-localization-pub.biowareonline.net,use2-ant04-live01-bigs-playercard-pub.biowareonline.net|Anthem loading|加快圣歌登入/加载/过场速度,新加坡服电信/移动可直连!|443
 45031=Origin Chat/Friends Server|解决Origin 聊天/好友服务无法连接||chat.dm.origin.com|Chat/Friends Server|聊天/好友服务器 - 若使用后出现异常请清除|5222
 45032=APEX Cant connect EA Server|解决APEX无限转圈/无法组队/无法连接EA伺服器||r5-pc.s3.amazonaws.com,R5-pc.stryder.respawn.com,R5-pc-sub.stryder.respawn.com,R5-pc-sub2.stryder.respawn.com,R5-pc-sub3.stryder.respawn.com,R5-pc-sub4.stryder.respawn.com,R5-pc-sub5.stryder.respawn.com,R5-pc-sub6.stryder.respawn.com,R5-pc-sub7.stryder.respawn.com,R5-pc-sub8.stryder.respawn.com,R5-pc-sub9.stryder.respawn.com,R5-pc-sub10.stryder.respawn.com,R5-pc-sub11.stryder.respawn.com,R5-pc-sub12.stryder.respawn.com,R5-pc-sub13.stryder.respawn.com,R5-pc-sub14.stryder.respawn.com,R5-pc-sub15.stryder.respawn.com,R5-pc-sub16.stryder.respawn.com,R5-pc-sub17.stryder.respawn.com,R5-pc-sub18.stryder.respawn.com,R5-pc-sub19.stryder.respawn.com,R5-pc-sub20.stryder.respawn.com,R5-pc-sub21.stryder.respawn.com,R5-pc-sub22.stryder.respawn.com,R5-pc-sub23.stryder.respawn.com,R5-pc-sub24.stryder.respawn.com,R5-pc-sub25.stryder.respawn.com,R5-pc-sub26.stryder.respawn.com,R5-pc-sub27.stryder.respawn.com,R5-pc-sub28.stryder.respawn.com,R5-pc-sub29.stryder.respawn.com,R5-pc-sub30.stryder.respawn.com,R5-pc-sub31.stryder.respawn.com,R5-pc-sub32.stryder.respawn.com,R5-pc-sub33.stryder.respawn.com,R5-pc-sub34.stryder.respawn.com,R5-pc-sub35.stryder.respawn.com,R5-pc-sub36.stryder.respawn.com|Fix APEX Cant connect EA Server|解决APEX无限转圈/无法组队/无法连接EA伺服器|443
-45033=Fix The Division 2 Hot Patch|解决全境封锁2游戏内更新发生错误||pc-content.prod.tctd2.ubisoft.com|Fix The Division 2 Hot Patch|解决全境封锁2下载更新文件时发生错误|80
+45033=Fix The Division 2 Hot Patch|解决全境封锁2游戏内更新发生错误OSCAR-03||pc-content.prod.tctd2.ubisoft.com|Fix The Division 2 Hot Patch|解决全境封锁2下载更新文件时发生错误|80
 45912=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由rfchost.com赞助 - 买VPS就上rfchost.com!|80
 45913=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 Mithril Network 赞助||as64271.net|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由Mithril Network赞助|80
 #end_usbeam
