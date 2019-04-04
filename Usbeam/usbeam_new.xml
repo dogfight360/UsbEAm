@@ -3,7 +3,7 @@ VERSION=3.47
 Group=SteamCN,|,Steam,Origin,Uplay,Microsoft Store,GOG,Battle.net,Epic Games,Bethesda Launcher,Discord,|,In Game,For Web,|,Reverse proxy
 
 [Announcement]
-SC=最新版本: V3.46\n\n\n更新日志:\n\n0.增加保存失败时自动尝试恢复hosts文件权限\n\n 1.修正旧版本外链打开问题\n\n本程序为免费应用,若在任意渠道付款购买,请立即退款并举报!\n\n\n\n====[Steam社区目前已无法通过hosts解决访问问题]====\n
+SC=最新版本: V3.47\n\n\n更新日志:\n\n0.hosts保存失败时尝试赋予当前用户权限\n\n 1.移除旧版本在DPI放大时强制不缩放\n\n本程序为免费应用,若在任意渠道付款购买,请立即退款并举报!\n\n\n\n====[Steam社区目前已无法通过hosts解决访问问题]====\n
 EN=The latest version: V3.46\n\n\nChangelog:\n\n0.Try to automatically restore hosts permissions\n
 
 [language]
