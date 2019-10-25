@@ -325,7 +325,7 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45035=Fix Foxhole Login|解决散兵坑无限loading||war-service-live.foxholeservices.com,war-service-dev.foxholeservices.com,s3.amazonaws.com|Fix Foxhole Login|解决散兵坑无限loading|443
 45036=TitanFall 1&&2 Cant connect DataCenter|解决泰坦陨落1&&2无法连接数据中心||r1-pc.s3.amazonaws.com,r2-pc.s3.amazonaws.com|TitanFall 1&&2 Cant connect DataCenter|解决泰坦陨落1&&2无法连接数据中心|443
 45037=Epic games Fix|Epic游戏平台各种问题修正||launcher-public-service-prod06.ol.epicgames.com,account-public-service-prod03.ol.epicgames.com,catalog-public-service-prod06.ol.epicgames.com,friends-public-service-prod06.ol.epicgames.com,eulatracking-public-service-prod06.ol.epicgames.com,ecommerceintegration-public-service-ecomprod02.ol.epicgames.com|Epic games Fix|Epic游戏平台各种问题修正(应用后为非中国大陆下载区!)|443
-45038=CODMW Fix|解决无法进入使命召唤16||kr.actual.battle.net|CODMW Fix|[地区选亚洲!]解决中国大陆IP无法进入COD16|1119
+45038=CODMW Fix|解决无法进入使命召唤16||auth3.prod.demonware.net,kr.actual.battle.net|CODMW Fix|[地区选亚洲!]解决部分地区IP无法进入COD16|1119
 45912=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由rfchost.com赞助 - 买VPS就上rfchost.com!|80
 45913=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 Mithril Network 赞助||as64271.net|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由Mithril Network赞助|80
 #end_usbeam
