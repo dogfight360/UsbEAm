@@ -3,7 +3,7 @@ VERSION=3.50
 Group=Keylol,|,Steam,Origin,Uplay,Microsoft Store,GOG,Battle.net,Epic Games,Bethesda Launcher,Rockstar Launcher,Discord,|,In Game,For Web,|,Reverse proxy
 
 [Announcement]
-SC=最新版本: V3.50\n\n\n更新日志:\n\n0.增加搜索hosts规则功能\n\n 1.增加清除所有由UHE写入的hosts功能(3.50/更高版本)\n\n本程序为免费应用,若在任意渠道付款购买,请立即退款并举报!\n\n\n\n====[Steam社区目前已无法通过hosts解决访问问题]====\n\n\n由于蒸汽动力(STEAMCN)变更为其乐(KEYLOL),默认跳转问题.旧版本(1.0-3.47)将于2020年1月20日停止服务,请更新到3.50版本!
+SC=最新版本: V3.50\n\n\n更新日志:\n\n0.增加搜索hosts规则功能\n\n 1.增加清除所有由UHE写入的hosts功能(3.50/更高版本)\n\n本程序为免费应用,若在任意渠道付款购买,请立即退款并举报!\n\n\n\n====[Steam社区目前已无法通过hosts解决访问问题]====\n\n\n由于蒸汽动力(STEAMCN)变更为其乐(KEYLOL),默认跳转问题\n\n旧版本(1.0-3.47)将于2020年1月20日停止服务,请更新到3.50版本!
 EN=The latest version: V3.50\n\n\nChangelog:\n\n0.Added search hosts function\n1. Added 'Clear all hosts rules writes using UHE'(3.50 or higher)\n
 
 [language]
