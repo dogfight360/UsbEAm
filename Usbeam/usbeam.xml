@@ -1,10 +1,10 @@
 ﻿[usbeam]
-VERSION=3.41
+VERSION=3.50
 Group=SteamCN,|,Steam,Origin,Uplay,Microsoft Store,GOG,Battle.net,Epic Games,|,In Game,For Web,Reverse proxy
 
 [Announcement]
-SC=最新版本: V3.42+\n\n\n更新日志:\n\n0.该版本数据不再维护,请更新到最新版本哦!\n
-EN=The latest version: V3.42+\n\n\nChangelog:\n\n0.The data version is no longer maintained. Please update to the latest version\n
+SC=最新版本: V3.50\n\n\n更新日志:\n\n0.增加搜索hosts规则功能\n\n 1.增加清除所有由UHE写入的hosts功能(3.50/更高版本)\n\n本程序为免费应用,若在任意渠道付款购买,请立即退款并举报!\n\n\n\n====[Steam社区目前已无法通过hosts解决访问问题]====\n\n\n由于蒸汽动力(STEAMCN)变更为其乐(KEYLOL),默认跳转问题\n\n旧版本(1.0-3.47)将于2020年1月20日停止服务,请更新到3.50版本!
+EN=The latest version: V3.50\n\n\nChangelog:\n\n0.Added search hosts function\n1. Added 'Clear all hosts rules writes using UHE'(3.50 or higher)\n
 
 [language]
 
@@ -75,12 +75,12 @@ NoSelectHosts_EN=Please click the bottom left icon to select the hosts rule
 NoSelectHosts_SC=请点击左下方图标选择hosts规则
 
 [usbeam_ad]
-url=5806D85638DD685B0E33AE000171B625342F0344F8A81AE1
-img=EC5F832D76CE1AF0A4E8BDC6CD86EAD63494D099AF51452D8578F1125BE7BB3A9C6268CA33003C9D308BF559AB96E4DB
-url_git=5806D85638DD685B0E33AE000171B625342F0344F8A81AE1
-img_git=20FE2CFCE45D7708197014C965DB8CE99FCA223057C831F02B15DD9A0C421098153FE280AD3E7CF3223709845D8F1FD1720B945341BC406CF4E10A065444905A9C6268CA33003C9D308BF559AB96E4DB
-size=45597
 show=everyday
+img=EC5F832D76CE1AF0A4E8BDC6CD86EAD63494D099AF51452D8578F1125BE7BB3A9C6268CA33003C9D308BF559AB96E4DB
+img_git=20FE2CFCE45D7708197014C965DB8CE99FCA223057C831F02B15DD9A0C421098153FE280AD3E7CF3223709845D8F1FD1720B945341BC406CF4E10A065444905A9C6268CA33003C9D308BF559AB96E4DB
+url=5806D85638DD685BDF26486B3393C2FF8534F535B9324933
+url_git=5806D85638DD685BDF26486B3393C2FF8534F535B9324933
+size=34803
 
 [SteamCN]
 ZH=SteamCN - 蒸汽动力社区
