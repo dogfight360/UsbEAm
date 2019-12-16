@@ -343,7 +343,7 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45036=TitanFall 1&&2 Cant connect DataCenter|解决泰坦陨落1&&2无法连接数据中心||r1-pc.s3.amazonaws.com,r2-pc.s3.amazonaws.com|TitanFall 1&&2 Cant connect DataCenter|解决泰坦陨落1&&2无法连接数据中心|443
 45037=Epic games Fix|Epic游戏平台各种问题修正||launcher-public-service-prod06.ol.epicgames.com,account-public-service-prod03.ol.epicgames.com,catalog-public-service-prod06.ol.epicgames.com,friends-public-service-prod06.ol.epicgames.com,eulatracking-public-service-prod06.ol.epicgames.com,ecommerceintegration-public-service-ecomprod02.ol.epicgames.com|Epic games Fix|Epic游戏平台各种问题修正(应用后为非中国大陆下载区!)|443
 45038=CODMW Fix|解决无法进入使命召唤16||iw8-bnet-auth3.prod.demonware.net,iw8-bnet-loginqueue.prod.demonware.net,prod.umbrella.demonware.net,prod.uno.demonware.net,pipes-prod-glutton.public.aws.demonware.net,auth3.prod.demonware.net,kr.actual.battle.net,mw-lobby-1.prod.demonware.net|CODMW Fix|[地区选亚洲!]解决部分地区IP无法进入COD16|1119
-45039=Fix EscapeFromTarkov Code 403|解决逃离塔科夫403||www.escapefromtarkov.com|Fix EscapeFromTarkov Login[403]|解决大陆地区无法正常登入逃离塔科夫[403]|1119
+45039=Fix EscapeFromTarkov Code 403+Unlock|解决逃离塔科夫403+全服解锁||www.escapefromtarkov.com,prod.escapefromtarkov.com|Fix EscapeFromTarkov Login[403]+Unlock All region|解决大陆地区403+全服解锁(需到主菜单后退出游戏生效)|1119
 45912=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由rfchost.com赞助 - 买VPS就上rfchost.com!|80
 45913=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 Mithril Network 赞助||as64271.net|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由Mithril Network赞助|80
 #end_usbeam
