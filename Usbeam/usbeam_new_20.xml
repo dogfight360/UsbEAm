@@ -94,7 +94,7 @@ url=DC0EE2D77EA2A00EA4E8BDC6CD86EAD679668779635E90ABBA70B09C44B45CB8CA643916B1DF
 url_git=DC0EE2D77EA2A00EA4E8BDC6CD86EAD679668779635E90ABBA70B09C44B45CB8CA643916B1DFA2CA85C64DAFD2B5F190
 url_s=5806D85638DD685B0E33AE000171B625342F0344F8A81AE1
 url_git_s=5806D85638DD685B0E33AE000171B625342F0344F8A81AE1
-size=47083
+size=49908
 
 [Github]
 ZH=Github - 开源社区
@@ -344,7 +344,7 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45027=BATTLEGROUNDS loading|绝地求生 (卡风景/卡背景) - 不推荐||front.battlegroundsgame.com,prod-live-front.playbattlegrounds.com,test-live-front.playbattlegrounds.com,test-live-front.pubgbluehole.com,test-xlive-front.playbattlegrounds.com|ease loading is slow|缓解卡loading - 流量过大,推荐使用[游戏内相关]的相同hosts|443
 45028=BATTLEGROUNDS connect|绝地求生 (卡白字/无法准备/换图/邀请)||prod-live-cfentry.playbattlegrounds.com,test-live-userproxy.playbattlegrounds.com,prod-live-entry.playbattlegrounds.com,test-xlive-entry.playbattlegrounds.com|ease connect is slow|缓解卡白字/无法准备/换图/邀请|443
 45029=Rainbow Six Siege|彩虹六号围攻||player.prod.r6.ubi.com,r6statuspc.azureedge.net,r6pcaddons.azureedge.net,msr-public-ubiservices.ubi.com,api-discovery.live01.pc-live.r6.ubi.com,api-configuration-live01.live01.pc-live.r6.ubi.com,r6logstorage05.blob.core.windows.net,public-ws-ubiservices.ubi.com,msr-public-ubiservices.ubi.com,mercury.ubi.com,d20i5e3rqc90ne.cloudfront.net|speedup server / store loading speed|加快连接服务器/商店/配件加载速度|80
-45030=CODMW Fix|使命召唤16 解决无法进入游戏||iw8-bnet-auth3.prod.demonware.net,iw8-bnet-loginqueue.prod.demonware.net,prod.umbrella.demonware.net,prod.uno.demonware.net,pipes-prod-glutton.public.aws.demonware.net,auth3.prod.demonware.net,kr.actual.battle.net,mw-lobby-1.prod.demonware.net|CODMW Fix|[地区选亚洲!]解决部分地区IP无法进入COD16|1119
+45030=CODMW Fix|使命召唤16 解决无法进入游戏||iw8-bnet-auth3.prod.demonware.net,iw8-bnet-loginqueue.prod.demonware.net,prod.umbrella.demonware.net,prod.uno.demonware.net,pipes-prod-glutton.public.aws.demonware.net,auth3.prod.demonware.net,kr.actual.battle.net,mw-lobby-1.prod.demonware.net|CODMW Fix|请使用国外IP[地区选亚洲!]解决部分地区IP无法进入COD16|1119
 45031=Fix EscapeFromTarkov Code 403+Unlock|逃离塔科夫 解决403+全服解锁||www.escapefromtarkov.com,prod.escapefromtarkov.com|Fix EscapeFromTarkov Login[403]+Unlock All region|解决大陆地区403+全服解锁(需到主菜单后退出游戏生效)[选服完成后建议删除该hosts]|1119
 45032=Fix Farming Simulator 19(epic) loading loop|模拟农场19(epic) 解决无限loading||datarouter.ol.epicgames.com,api.epicgames.dev,www.farming-simulator.com,egp-idsoc-proxy-prod.ol.epicgames.com,metrics.ol.epicgames.com,xmpp-service-prod.ol.epicgames.com,ecommerceintegration-public-service-ecomprod02.ol.epicgames.com|Fix Farming Simulator 19((epic)) loading loop|模拟农场19 解决无限loading|443
 49001=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由rfchost.com赞助 - 买VPS就上rfchost.com!|80
