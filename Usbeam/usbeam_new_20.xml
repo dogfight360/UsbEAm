@@ -530,6 +530,7 @@ ICO=0000010001001010000001002000680400001600000028000000100000002000000001002000
 45053=Back4Blood Fix Unable to login/establish matching session|喋血复仇 解决无法登入/建立匹配会话||gobi-config.atuin.4vngame.net,gobi-api.wbagora.com,api.epicgames.dev,prd-global-auth-service-v3-ext.atuin.4vngame.net,prd-sin-sessions-v3.atuin.4vngame.net,prd-nrt-sessions-v3.atuin.4vngame.net|Back4Blood Fix Unable to login/establish matching session|解决日/新服无法登入/建立匹配会话 [无限"加入服务器失败"请关闭IPV6]!|443
 45054=PES 2021 Fix login in CN|实况足球PES2021 解决无法登入||pes21-x64-gate.cs.konami.net|PES 2021 Fix login in CN|实况足球PES2021 解决无法登入 [仅国内IP可用!]|10000
 45055=HUMANKIND Fix Server List|人类HUMANKIND 解决无法刷出服务器列表||ns.exitgames.com|HUMANKIND Fix Server List|人类HUMANKIND 解决无法刷出服务器列表|4533
+45056=MIR4 Fix Login|传奇4 解决无法登陆||api.mir4global.com|MIR4 Fix Login|传奇4 解决无法登陆|443
 49001=Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由 rfchost.com 赞助||www.rfchost.com|Reverse proxy server is sponsored by rfchost.com|部分反代加速服务器由rfchost.com赞助|80
 49002=Reverse proxy server is sponsored by yuelun.com|部分反代加速服务器由 月轮网游加速器 赞助||www.yuelun.com|Reverse proxy server is sponsored by yuelun.com|部分反代加速服务器由月轮网游加速器赞助|80
 
