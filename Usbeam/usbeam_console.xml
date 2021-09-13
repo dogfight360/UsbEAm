@@ -3,8 +3,8 @@ VERSION=1.5
 Group=Nintendo,Xbox,Playstation,|,In Game,|,Reverse proxy
 
 [Announcement]
-SC=最新版本: V1.4.1\n\n\n更新日志:\n\n0.增加下载速率测试功能(双击IP地址)\n\n若对操作有任何疑问可在右击菜单内->[使用教程]查看详细设置步骤\n\n本程序为免费应用,若在任意渠道付款购买,请立即退款!\n\n
-EN=The latest version: V1.4.1\n\n\nChangelog:\n\n0.Add the download rate test function (double-click on the IP address)\n\nIf you have any questions about the operation, please check the detailed setup steps in the right click menu -> [User's Guide]\n\n
+SC=最新版本: V1.5\n\n\n更新日志:\n\n0.增加下载速率测试功能(双击IP地址)\n\n若对操作有任何疑问可在右击菜单内->[使用教程]查看详细设置步骤\n\n本程序为免费应用,若在任意渠道付款购买,请立即退款!\n\n
+EN=The latest version: V1.5\n\n\nChangelog:\n\n0.Add the download rate test function (double-click on the IP address)\n\nIf you have any questions about the operation, please check the detailed setup steps in the right click menu -> [User's Guide]\n\n
 
 [language]
 
